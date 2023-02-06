@@ -1,0 +1,26 @@
+Meta Character
+\d -> detect digit
+\D -> not digit
+\w -> word
+\W -> not word
+\s -> space
+\S -> not space
+
+Anchor
+
+\b -> word boundary
+\B -> not a word boundary
+^ ->  Start of String see
+$ ->  to see something at end. (T$)
+
+[] - > character set you  can put any pattern to match.
+- -> to mention range
+[^a-f] -> get all values which is not between a to f ( range complement)
+
+# examples
+
+[^a-fp-z3-7] -> to get all values which is not in mentioned range
+[a-z]* -> get whole string
+
+* -> allows for zero or more occurences
++ -> allows for one or more occurences
