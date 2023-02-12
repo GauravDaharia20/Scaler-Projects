@@ -24,3 +24,11 @@ $ ->  to see something at end. (T$)
 
 * -> allows for zero or more occurences
 + -> allows for one or more occurences
+
+
+H? -> either take 0 or 1 occurences of H
+? -> it checked only 0 or One occurences
+
+H[a-z]{3,4} - > Look for H followed by 3to4 character
+
+M(r|s)+ - > () known as groups so it will all those value which is after M.

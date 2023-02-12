@@ -1,0 +1,47 @@
+Hypothesis testing
+
+p_Value-> prob(data | H0 is True)
+alpha -> significance level
+if(p_Value < alpha):
+	rejrct H0
+else:
+	accept H0
+	
+when population std is known then use z-test
+
+when population std is not known then use t-test(population < 30)
+
+KS Test
+
+H0 : Two distribution are same.
+Ha : Two distribution are different.
+
+Kolmogorov–Smirnov test a very efficient way to determine if two samples are significantly different from each other.
+
+
+
+There is an issue with Student’s T-Test, samples must be normal (shaped in a normal distribution). That is an issue for us because we do work a lot with Poisson distributions.
+
+Chi-sqauare test assumptions
+
+H0 : feature is independent
+Ha : feature is dependent
+
+1. Variable categorical
+2. Observation independent 
+3. each cell mutually excusive
+4. Expected(EXP) value in each cell > 5
+
+
+ANOVA
+Higher F ratio values indicate the variation between groups is larger than the individual variation of groups. In such cases, it is more likely that the mean of the groups are different.
+
+Assumption for ANOVA
+1. Normality - > must follow normal distribution
+2. Independent
+3. Equal Sample varience.
+
+IF ANOVA FAILS THEN USE KRUSKAL WALLIS TEST
+Null Hypothesis: There is no difference in four mixing techniques.
+
+Alternative Hypothesis: There is a difference in four mixing techniques.
