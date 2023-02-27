@@ -45,3 +45,5 @@ IF ANOVA FAILS THEN USE KRUSKAL WALLIS TEST
 Null Hypothesis: There is no difference in four mixing techniques.
 
 Alternative Hypothesis: There is a difference in four mixing techniques.
+
+Mann Whitney U Test alternative of two sample t-test.
