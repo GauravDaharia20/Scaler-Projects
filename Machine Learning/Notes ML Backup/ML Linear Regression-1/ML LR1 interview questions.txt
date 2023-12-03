@@ -1,0 +1,39 @@
+Explain the Assumptions of Linear Regression.
+
+Discuss the key assumptions, such as linearity, independence, homoscedasticity, and normality of residuals.
+How Do You Interpret the Coefficients in a Linear Regression Model?
+
+Understand how the coefficients relate to the change in the dependent variable for a one-unit change in the independent variable.
+What is the Purpose of the Cost Function in Linear Regression?
+
+Explain the role of the cost function (or loss function) in the context of linear regression and how it is minimized during training.
+How Would You Handle Categorical Variables in Linear Regression?
+
+Discuss techniques for encoding categorical variables, such as one-hot encoding or label encoding, and their implications in linear regression.
+What is the Difference Between Gradient Descent and Normal Equation in the Context of Linear Regression?
+
+Compare the two methods for finding the optimal parameters in linear regression and discuss their advantages and disadvantages.
+How Can You Detect and Handle Outliers in a Linear Regression Model?
+
+Explain methods for identifying outliers and discuss the impact of outliers on linear regression. Mention techniques like removing outliers or using robust regression.
+Explain the Bias-Variance Tradeoff.
+
+Discuss the concept of bias and variance in the context of model performance and how it relates to underfitting and overfitting.
+What is Regularization, and Why is it Important in Linear Regression?
+
+Describe regularization techniques like Ridge and Lasso, and explain how they help prevent overfitting in linear regression models.
+How Would You Assess the Goodness of Fit of a Linear Regression Model?
+
+Discuss metrics such as R-squared, Mean Squared Error (MSE), or Root Mean Squared Error (RMSE) to evaluate the performance of a linear regression model.
+Can You Explain the Concept of Multicollinearity? How Does it Affect Linear Regression?
+
+Define multicollinearity and discuss its impact on the stability of coefficients in multiple linear regression models.
+Give an Example of a Real-world Scenario Where Linear Regression Could be Applied.
+
+Demonstrate your understanding of applying linear regression to solve practical problems, such as predicting sales based on advertising spending.
+How Does Feature Scaling Impact Linear Regression?
+
+Discuss the importance of feature scaling (e.g., standardization or normalization) in linear regression and its effect on the convergence of optimization algorithms.
+Explain the Difference Between Overfitting and Underfitting in the Context of Linear Regression.
+
+Provide examples of overfitting and underfitting, and discuss strategies to mitigate these issues.
