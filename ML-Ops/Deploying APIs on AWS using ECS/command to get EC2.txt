@@ -1,0 +1,22 @@
+ssh -i ec2-feb7.pem ubuntu@52.5.8.91
+
+install docker
+	 1. install docker repository
+	 2. install docker 
+
+before using docker use below command 
+
+sudo usermod -a -G docker ubuntu
+
+sudo reboot
+
+docker pull gaurav20/loan_app
+
+docker image ls
+
+docker run -d -p host-port:container-port your-image 
+
+Method to use ECR
+
+Push your image to ecr.
+then we can deploy ecs
