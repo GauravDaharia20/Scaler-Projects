@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/gaura/Documents/GitHub/Scaler-Projects/ML-Ops/Experiment%20Tracking%20%26%20Data%20Management%20using%20MLFlow/mlruns/564727606847568483
+creation_time: 1708057125757
+experiment_id: '564727606847568483'
+last_update_time: 1708057125757
+lifecycle_stage: active
+name: loan_status

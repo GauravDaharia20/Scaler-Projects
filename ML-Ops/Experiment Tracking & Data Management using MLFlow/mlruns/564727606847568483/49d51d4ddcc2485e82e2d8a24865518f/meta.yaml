@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gaura/Documents/GitHub/Scaler-Projects/ML-Ops/Experiment%20Tracking%20%26%20Data%20Management%20using%20MLFlow/mlruns/564727606847568483/49d51d4ddcc2485e82e2d8a24865518f/artifacts
+end_time: 1708143685668
+entry_point_name: ''
+experiment_id: '564727606847568483'
+lifecycle_stage: active
+run_id: 49d51d4ddcc2485e82e2d8a24865518f
+run_name: hyperparam_run1
+run_uuid: 49d51d4ddcc2485e82e2d8a24865518f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708143680053
+status: 3
+tags: []
+user_id: gaura

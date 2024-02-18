@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gaura/Documents/GitHub/Scaler-Projects/ML-Ops/Experiment%20Tracking%20%26%20Data%20Management%20using%20MLFlow/mlruns/564727606847568483/7585f4947a1646aa97bc49d24025878e/artifacts
+end_time: 1708139587767
+entry_point_name: ''
+experiment_id: '564727606847568483'
+lifecycle_stage: active
+run_id: 7585f4947a1646aa97bc49d24025878e
+run_name: clean-snipe-315
+run_uuid: 7585f4947a1646aa97bc49d24025878e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708139585982
+status: 3
+tags: []
+user_id: gaura

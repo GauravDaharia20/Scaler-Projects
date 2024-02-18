@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gaura/Documents/GitHub/Scaler-Projects/ML-Ops/Experiment%20Tracking%20%26%20Data%20Management%20using%20MLFlow/mlruns/564727606847568483/11e2bf22cac145689b61b0ecd25360db/artifacts
+end_time: 1708138414175
+entry_point_name: ''
+experiment_id: '564727606847568483'
+lifecycle_stage: active
+run_id: 11e2bf22cac145689b61b0ecd25360db
+run_name: big-rat-735
+run_uuid: 11e2bf22cac145689b61b0ecd25360db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708138402818
+status: 3
+tags: []
+user_id: gaura

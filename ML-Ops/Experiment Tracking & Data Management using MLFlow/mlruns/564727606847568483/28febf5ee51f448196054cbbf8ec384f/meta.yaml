@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/gaura/Documents/GitHub/Scaler-Projects/ML-Ops/Experiment%20Tracking%20%26%20Data%20Management%20using%20MLFlow/mlruns/564727606847568483/28febf5ee51f448196054cbbf8ec384f/artifacts
+end_time: 1708140150313
+entry_point_name: ''
+experiment_id: '564727606847568483'
+lifecycle_stage: active
+run_id: 28febf5ee51f448196054cbbf8ec384f
+run_name: stylish-crane-930
+run_uuid: 28febf5ee51f448196054cbbf8ec384f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708140143411
+status: 3
+tags: []
+user_id: gaura
