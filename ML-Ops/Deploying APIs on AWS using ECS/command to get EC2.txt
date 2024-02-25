@@ -20,3 +20,35 @@ Method to use ECR
 
 Push your image to ecr.
 then we can deploy ecs
+
+1. pip install aws cli 
+2. aws configure
+
+assoc .py=pyautofile
+ftype pyautofile="C:\Users\gaura\anaconda3\python.exe" "%1" %*
+
+
+
+PRoject
+1. problem satement
+2. data pipeline
+3. solution apporach
+4. impact or success metrics
+
+
+	Programming Languages: JavaScript, TypeScript, Python, SQL, Shell Script, C++
+	Libraries: TensorFlow, Keras, NumPy, Pandas, Scipy, Seaborn
+	Databases: Oracle SQL, MySQL, Redshift (AWS)
+	Tools/Platforms: Git, GitLab, Tableau, Excel, GCP (BigQuery, Data Flow)
+	Skills: Statistical Analysis, Exploratory Data Analysis
+	Machine Learning: Linear Regression, Logistic Regression, Random Forest, Ensembling Techniques, SVM
+
+
+	Development of Deep Neural Network: I designed and developed a deep neural network using Python, TensorFlow, Keras, and NLTK. The objective was to predict diseases based on symptoms reported by users. This network leveraged state-of-the-art tools and technologies in the field of machine learning and natural language processing (NLP).
+	Model Accuracy: The deep neural network I created achieved an impressive accuracy rate of 95% in predicting diseases from the symptoms provided to it. This high accuracy level underscores the effectiveness of the model in assisting with disease diagnosis and decision-making.
+	User-Friendly Website: To enhance the user experience, I built a user-friendly website using Angular. This website served as an interface for users to input symptoms and receive predictions. The design and usability of the site were tailored to make the interaction as seamless as possible.
+Machine Learning Model Hosting: I developed and implemented an API using FAST API to host the machine learning model on a live website. This allowed for real-time predictions and seamless integration with the user interface. The hosting of the model using FAST API contributed to the reliability and scalability of the system.
+
+
+
+Designed and implemented a disease detection project aimed at identifying health issues based on user-reported symptoms, addressing a critical need in healthcare diagnostics
