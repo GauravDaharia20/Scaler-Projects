@@ -126,3 +126,8 @@ sed '$d' <filename> last line
 sed '12,$d'<filename> -> nth line from last
 
 sed '/abc/d' <filename>
+
+difference between user-user and item-item similarity?
+
+
+
